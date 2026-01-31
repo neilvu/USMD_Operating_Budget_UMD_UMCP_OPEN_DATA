@@ -21,4 +21,4 @@ Through data analytics tools, I was able to find patterns not only where the sou
 
 Tools Programmed via SQL (MySQL Workbench) and importing CSV files with Google Sheets and Apple Numbers.
 
-CREDIT: State of Maryland Open Data Portal (https://opendata.maryland.gov)
+CREDIT: State of Maryland Open Data Portal (https://opendata.maryland.gov/)
