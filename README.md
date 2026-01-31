@@ -13,8 +13,12 @@ Through data analytics tools, I was able to find patterns not only where the sou
 
 
 ##### SOURCES: 
+
 1). Sears, B.P. & Ford, W.J. (2025). Universities told they should brace for the coming year’s 7% budget cut. Maryland Matters. Retrieved from January 30, 2026. https://marylandmatters.org/2025/06/12/universities-told-they-should-brace-for-the-coming-years-7-budget-cut/
+
 2). Grauntt, S (2025). University Regents Approve Fiscal Year 2026 Budget that cuts spending, raises tuition and fees. Maryland Matters. Retrieved from January 30, 2026. https://marylandmatters.org/2025/06/13/university-regents-approve-fiscal-2026-budget-that-cuts-spending-raises-tuition-and-fees/
 
 
 Tools Programmed via SQL (MySQL Workbench) and importing CSV files with Google Sheets and Apple Numbers.
+
+CREDIT: State of Maryland Open Data Portal (https://opendata.maryland.gov)
