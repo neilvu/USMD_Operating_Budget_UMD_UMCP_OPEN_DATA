@@ -1,4 +1,4 @@
-### OPEN DATA] University System of Maryland Operating Budget Audit Analysis (University of Maryland, College Park) | Project Link:                                                                                                                                 
+### [OPEN DATA] University System of Maryland Operating Budget Audit Analysis (University of Maryland, College Park)                                                                                                                                 
 ##### Dataset Link: https://opendata.maryland.gov/Budget/Maryland-Operating-Budget-CUR-and-CR/4mca-332u/about_data
 
 #### PURPOSE: To understand how the University System of Maryland (including with an USMD institution - University of Maryland, College Park) operates on a budget/finance scale that is available on the open data page. This helps to track down where the amount is going to its institutions' goals as well as the challenges it faced on its operations on an data audit scale. 
