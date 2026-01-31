@@ -22,3 +22,8 @@ Through data analytics tools, I was able to find patterns not only where the sou
 Tools Programmed via SQL (MySQL Workbench) and importing CSV files with Google Sheets and Apple Numbers.
 
 CREDIT: State of Maryland Open Data Portal (https://opendata.maryland.gov/)
+
+
+Data Set and Queries (Specifically UMCP - University of MD College Park Campus):
+
+https://opendata.maryland.gov/Budget/Maryland-Operating-Budget-CUR-and-CR/4mca-332u/explore/query/SELECT%0A%20%20%60fiscal_year%60%2C%0A%20%20%60agency_code%60%2C%0A%20%20%60agency_name%60%2C%0A%20%20%60unit_code%60%2C%0A%20%20%60unit_name%60%2C%0A%20%20%60program_code%60%2C%0A%20%20%60program_name%60%2C%0A%20%20%60subprogram_code%60%2C%0A%20%20%60subprogram_name%60%2C%0A%20%20%60object_code%60%2C%0A%20%20%60object_name%60%2C%0A%20%20%60comptroller_subobject_code%60%2C%0A%20%20%60comptroller_subobject_name%60%2C%0A%20%20%60agency_subobject_code%60%2C%0A%20%20%60agency_subobject_name%60%2C%0A%20%20%60fund_type_name%60%2C%0A%20%20%60budget%60%2C%0A%20%20%60organization_code%60%2C%0A%20%20%60category%60%2C%0A%20%20%60category_title%60%0AORDER%20BY%20%60fiscal_year%60%20ASC%20NULL%20LAST%0ASEARCH%20%22University%20of%20Maryland%2C%20College%20Park%20Campus%22/page/filter
