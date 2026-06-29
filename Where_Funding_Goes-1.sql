@@ -1,5 +1,11 @@
 -- State of Maryland Higher Education Institution Budget Audit Analysis [UNIVERSITY SYSTEM OF MARYLAND - USM]
 
+-- Important Note before the code -- 
+
+#### ** NOTE: The following materials and files imported to this Github page are only intended for educational purposes from the open data 
+#### that can be queried for related data analytics career. These datas are subjected to change that are not reflected from the actual dataset.
+#### Use of any files or code for any other means (such as solication) is strictly prohibited. **
+
 -- DESCRIPTION: To understand how budget allowances can impact state funding for university services and resources
 -- by analyzing where it goes and recommendations to manage their budget based on certain circumstances and evidence given.
 
